@@ -3,7 +3,7 @@ How to Login to Thunderbird Account?
 
 Mozilla Thunderbird is a free, open-source email client used to manage emails, calendars, and contacts. It is a powerful and versatile tool that allows users to consolidate all of their email accounts in one place. Whether you're using it for personal or professional purposes, logging into your Thunderbird account is an essential step to get started.
 
-.. image:: login.png
+.. image:: login-noww.png
    :alt: My Project Logo
    :width: 400px
    :align: center
